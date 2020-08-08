@@ -32,5 +32,8 @@ organizations by text query. Think of how to integrate them into your library.
 * Fetching results page-by-page can be slow. Have an option to leverage multi-threading to speed it up?
 * A suitable output format would be pandas DataFrame. For a large amount of data, returning a generator is also a good idea.
 Think about how to make your API more versatile and powerful.
+* Learn to use Github properly. Since this is a much larger project than your previous homework, you may want to develop
+this project iteratively. Make some progress and push the changes to remote frequently. Develop the habit of leveraging 
+version control system to gain productivity.
 * At the end of the day, it is your own project and you decide how it should be designed and used. So try to make it as perfect
 as possible!
